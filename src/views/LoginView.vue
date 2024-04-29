@@ -2,8 +2,8 @@
 import { ref } from 'vue'
 import LoginItem from '../components/LoginItem.vue'
 import ShowInput from '../components/ShowInput.vue'
-const userId = ref('aaa')
-const password = ref('bbb')
+const userId = ref('')
+const password = ref('')
 </script>
 <template>
   <main>
